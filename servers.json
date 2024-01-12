@@ -1,0 +1,5 @@
+[
+    { "id": 1, "name": "The Wine Bar - BloodSweat & Beers", "ip": "54.36.60.213", "port": 8530, "map": "Map A", "players": 10 },
+    { "id": 2, "name": "The Wine Bar #2 | Gamepass Welcome", "ip": "", "port": 27016, "map": "Map B", "players": 20 }
+    
+]
